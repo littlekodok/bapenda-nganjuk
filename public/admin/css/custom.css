@@ -1,0 +1,14 @@
+.toggle-group label, .toggle-group span {
+  color: white;
+}
+
+.icon-login {
+  
+  font-size: 60px;
+  margin: 0 auto;
+
+  margin-bottom: 10px;
+}
+.icon-login span{
+  color: #21325b;
+}
